@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        Preeti
+    </title>
+</head>
+<body>
+    <h1>Preeti</h1>
+    <p1><b>Email :</b>preeti.vvk4@gmail.com |
+    <b>Phone :</b>9499373323 |
+        <b>My Github URL:</b>Preetivvk</p1>
+    <hr>
+    <h2>
+        Education
+    </h2>
+    <p2>
+        <ul> <li>Persuing B.Tech in IIIT A with majors in Information Technology and Business Informatics.
+            </li>
+            <li>
+                Completed class 12 from RPS REWARI
+            </li>
+        </ul>
+    </p2>
+    <hr>
+
+    <h2>
+        Skills
+    </h2>
+    <p3>
+        <table>
+            <tr>
+                <td><b>Language &emsp;</b></td>
+                <td style="text-align:center;"><b> Skill </b></td>
+            </tr>
+            <tr>
+                <td><b>HTML</b></td>
+                <td>&starf;&starf;&starf;&starf;&star;</td>
+            </tr>
+            <tr>
+                <td><b>CSS</b></td>
+                <td>&starf;&starf;&starf;&star;&star;</td>
+            </tr>
+            <tr>
+                <td><b>Javascript</b></td>
+                <td>&starf;&starf;&star;&star;&star;</td>
+            </tr>
+        </table>
+    </p3>
+    <hr>
+
+    <h2>
+        Contact Me
+    </h2>
+    <form>
+        <label>Your Name : </label>
+        <input type="text" placeholder="Enter your name"><br><br>
+        <label>Your Email id : </label>
+        <input type="text" placeholder="Enter your email id"><br><br>
+        <label>Your message : </label>
+        <input type="text" style="width: 300px; height: 50px;" placeholder="Enter your message">
+    </form>
+</body>
+
+</html>
